@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/build.dir/main.cpp.o CMakeFiles/build.dir/src/sha256.cpp.o -o build 
